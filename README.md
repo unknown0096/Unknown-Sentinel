@@ -1,5 +1,3 @@
-<h1 align="center"> Unknown </h1> 
-<p align= "center"> <unk> <img  src="https://ibb.co/SxWPFSp"width="420"> </unk><br><br>
   
                                                    Setup 🛠️
 
