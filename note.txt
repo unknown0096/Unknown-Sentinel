@@ -1,0 +1,1 @@
+To make it work, make sure to install Python and all the requirements by running the install.bat file.
