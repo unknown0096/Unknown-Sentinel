@@ -5,11 +5,11 @@
                                                    Setup 🛠️
 
                                                    
-* Open the "install_python.bat" file to begin.
+* Open the `install_python.bat` file to begin.
 
-* Once Python is installed, open "install.bat" to install requirements
+* Once Python is installed, open `install.bat` to install requirements
 
-* edit the "main.py" file and replace "WEBHOOK_HERE" with your own Discord webhook.
+* edit the `main.py` file and replace `WEBHOOK_HERE` with your own Discord webhook.
 
 * Now You need to use pyinstaller to convert python file to exe.
 
