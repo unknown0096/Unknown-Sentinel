@@ -24,8 +24,6 @@
                                      
 * Startup
 
-* Discord Injection:
-
 * Grab Discord Token, Phone Number, Email, and Friends List.
 
 * Grab Browser Cookies & Passwords.
