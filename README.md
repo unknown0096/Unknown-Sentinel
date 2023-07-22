@@ -17,7 +17,7 @@
 
 * And after installed `python -m auto_py_to_exe`
 
-* Browse file Select `One file and Windows Based (hide the console)
+* Browse file Select One file and Windows Based (hide the console)
 
 
                                                    Futures 💡
